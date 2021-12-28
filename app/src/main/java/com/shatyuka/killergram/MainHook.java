@@ -17,6 +17,7 @@ public class MainHook implements IXposedHookLoadPackage {
             "nekox.messenger",
             "com.cool2645.nekolite",
             "org.telegram.plus",
+            "ir.ilmili.telegraph",
             "com.iMe.android",
             "org.telegram.BifToGram",
             "ua.itaysonlab.messenger",
